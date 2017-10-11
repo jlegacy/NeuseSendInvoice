@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NeuseCreateOrdersCSV.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConnectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=cs-panelserver2.cybersharks.net;Initial Catalog=neusesportshop2;Persist Security Info=True;User ID=jlegacy;Password=Cobol7008#1</Value>
+    </Setting>
+    <Setting Name="CSVOrderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\\ordersOut\\</Value>
+    </Setting>
+    <Setting Name="InitialLoad" Type="System.String" Scope="User">
+      <Value Profile="(Default)">N</Value>
+    </Setting>
+    <Setting Name="PauseProcess" Type="System.String" Scope="User">
+      <Value Profile="(Default)">N</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

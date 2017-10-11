@@ -1,0 +1,11 @@
+c:\users\jlegacy\documents\visual studio 2013\Projects\NeuseCreateOrdersCSV\NeuseCreateOrdersCSV\bin\Debug\NeuseCreateOrdersCSV.exe.config
+c:\users\jlegacy\documents\visual studio 2013\Projects\NeuseCreateOrdersCSV\NeuseCreateOrdersCSV\bin\Debug\NeuseCreateOrdersCSV.exe
+c:\users\jlegacy\documents\visual studio 2013\Projects\NeuseCreateOrdersCSV\NeuseCreateOrdersCSV\bin\Debug\NeuseCreateOrdersCSV.pdb
+c:\users\jlegacy\documents\visual studio 2013\Projects\NeuseCreateOrdersCSV\NeuseCreateOrdersCSV\obj\Debug\NeuseCreateOrdersCSV.exe
+c:\users\jlegacy\documents\visual studio 2013\Projects\NeuseCreateOrdersCSV\NeuseCreateOrdersCSV\obj\Debug\NeuseCreateOrdersCSV.pdb
+c:\users\jlegacy\documents\visual studio 2013\Projects\NeuseCreateOrdersCSV\NeuseCreateOrdersCSV\bin\Debug\LINQtoCSV.dll
+C:\Users\jlegacy\documents\visual studio 2013\Projects\NeuseCreateOrdersCSV\NeuseCreateOrdersCSV\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jlegacy\documents\visual studio 2013\Projects\NeuseCreateOrdersCSV\NeuseCreateOrdersCSV\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\jlegacy\documents\visual studio 2013\Projects\NeuseCreateOrdersCSV\NeuseCreateOrdersCSV\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jlegacy\documents\visual studio 2013\Projects\NeuseCreateOrdersCSV\NeuseCreateOrdersCSV\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\jlegacy\documents\visual studio 2013\Projects\NeuseCreateOrdersCSV\NeuseCreateOrdersCSV\obj\Debug\NeuseCreateOrdersCSV.csprojResolveAssemblyReference.cache
